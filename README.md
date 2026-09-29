@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Sanjeev Kumar 👋
 
-<!--
-**sanjeevkumarsecops-cloud/sanjeevkumarsecops-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Network Engineer | Network Security Engineer
 
-Here are some ideas to get you started:
+I'm a Network Engineer focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Network Infrastructure  
+🔐 Network Security  
+☁️ Cloud Networking  
+🛡️ Firewall & VPN  
+🐍 Network Automation  
+
+### Networking
+Cisco | VLAN | STP | EtherChannel | HSRP | OSPF
+
+### Security
+Palo Alto | ACL | NAT | IPsec VPN | Security Policies
+
+### Tools
+Wireshark | Linux | SNMP | Syslog | Git
+
+### Currently Learning
+AWS Networking  
+Python Network Automation  
+Network Security  
+
+### 📫 Contact Me
+
+📧 **Email:** sanjeevkumar.secops@gmail.com 
+💼 **LinkedIn:** www.linkedin.com/in/sanjeevkumarsecops  
+🐙 **GitHub:** [sanjeevkumarsecops-cloud](https://github.com/sanjeevkumarsecops-cloud)
